@@ -1,5 +1,5 @@
 test
 ====
 
-[attempt to link to first.text](first.txt)
-attempt to link to image readytorun.jpg
+[attempt to link to secondpage](secondpage)
+[attempt to link to ready to run image](readytorun.jpg)
